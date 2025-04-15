@@ -1,4 +1,4 @@
-# AI_Email_Manager_Bot
+# AI Email Manager Bot
 This n8n workflow processes incoming emails, summarizes them with AI, and prepares draft responses for human review before sending.
 
 This automated workflow streamlines the processing of incoming emails by summarizing content, generating tailored responses via a retrieval-augmented generation (RAG) strategy, and securing approval before sending any replies. The workflow is structured in two primary stages:
